@@ -42,3 +42,4 @@ void loop() {
 ```
 Reupload By fireorb
 [sumber](https://github.com/EthicNinja/Ninjutsu-USB/)
+#Disclaimer Educational Purposes Only
